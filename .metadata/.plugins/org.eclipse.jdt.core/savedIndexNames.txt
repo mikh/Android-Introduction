@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\mikhail.andreev\Dropbox\Projects\Open\Android\.metadata\.plugins\org.eclipse.jdt.core
+782553464.index
+3158648900.index
